@@ -59,7 +59,7 @@ function renderGame() {
 function newCard() {
     
     if (isPlaying === true && hasBlackJack === false) {
-        console.log("newCard button was pushed and we're inside!");
+        //console.log("newCard button was pushed and we're inside if clause!");
         let card = getRandomCard();
         sum += card;
         cards.push(card);
