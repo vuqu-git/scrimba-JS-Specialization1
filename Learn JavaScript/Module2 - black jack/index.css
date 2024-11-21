@@ -17,6 +17,7 @@ h1 {
 
 button {
     color: #016f32;
+    cursor: pointer;
     width: 150px;
     background: goldenrod;
     padding-top: 5px;
